@@ -1,0 +1,7 @@
+1) Tensorflow
+2) tflearn
+3) NLTK
+4) PyQT5
+5) speech recognition 
+6) pyttsx3
+7) numpy

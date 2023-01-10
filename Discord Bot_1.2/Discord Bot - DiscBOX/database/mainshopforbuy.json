@@ -1,0 +1,77 @@
+  [
+    {
+      "name": "Ryzen-9-5900X",
+      "price": 699,
+      "description": "16C/32T"
+    },
+    {
+      "name": "Ryzen-7-5800X",
+      "price": 449,
+      "description": "8C/16T"
+    },
+    {
+      "name": "Ryzen-5-5600X",
+      "price": 299,
+      "description": "6C/12t"
+    },
+    {
+      "name": "Intel-i9-11900K",
+      "price": 549,
+      "description": "8C/16T"
+    },
+    {
+      "name": "Intel-i7-11700K",
+      "price": 399,
+      "description": "8C/16t"
+    },
+    {
+      "name": "Intel-i5-11600K",
+      "price": 299,
+      "description": "6C/12t"
+    },
+    {
+      "name": "Nvidia-RTX-3080-Ti",
+      "price": 945,
+      "description": "12 GB GDDR6X/Bclock ~ 1.67 GHz"
+    },
+    {
+      "name": "Nvidia-RTX-3070-Ti",
+      "price": 899,
+      "description": "8 GB GDDR6X/Bclock ~ 1.71 GHz"
+    },
+    {
+      "name": "Nvidia-RTX-3060-Ti",
+      "price": 415,
+      "description": "8 GB GDDR6X/Bclock ~ 1.71 GHz"
+    },
+    {
+      "name": "Asus-ROG-X570-Crosshair-VIII",
+      "price": 739,
+      "description": "AM4 Socket"
+    },
+    {
+      "name": "Asus-TUF-X570+",
+      "price": 415,
+      "description": "AM4 Socket"
+    },
+    {
+      "name": "MSI-MPG-B550-Edge",
+      "price": 309,
+      "description": "AM4 Socket"
+    },
+    {
+      "name": "ASUS-ROG-Maximus-XIII-H",
+      "price": 729,
+      "description": "LGA 1200 Socket"
+    },
+    {
+      "name": "Gigabyte-Z590-AORUS-ELITE-AX",
+      "price": 436,
+      "description": "LGA 1200 Socket"
+    },
+    {
+      "name": "ASRock-B560-Steel-Legend",
+      "price": 299,
+      "description": "LGA 1200 Socket"
+    }
+  ]

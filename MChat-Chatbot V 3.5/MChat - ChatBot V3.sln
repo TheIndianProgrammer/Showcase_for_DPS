@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MChat - ChatBot V3", "MChat - ChatBot V3.pyproj", "{5558AC60-500C-4C08-ADE7-9A42219EAF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5558AC60-500C-4C08-ADE7-9A42219EAF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5558AC60-500C-4C08-ADE7-9A42219EAF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE59D77-4E02-4B1D-A286-71DF76B48200}
+	EndGlobalSection
+EndGlobal

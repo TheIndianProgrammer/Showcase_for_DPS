@@ -1,0 +1,5 @@
+1) Tensorflow
+2) Keras
+3) Sklearn
+4) pandas
+5) numpy

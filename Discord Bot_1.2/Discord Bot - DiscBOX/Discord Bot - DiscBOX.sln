@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Discord Bot - DiscBOX", "Discord Bot - DiscBOX.pyproj", "{C29A60DC-20C3-4D44-B692-37CF33F75E39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C29A60DC-20C3-4D44-B692-37CF33F75E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29A60DC-20C3-4D44-B692-37CF33F75E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0556528-0F10-4502-977D-EA3503136C89}
+	EndGlobalSection
+EndGlobal
