@@ -412,4 +412,4 @@ async def sell_this(user,item_name,price = None):
 #=====================================================================
 #jdjjdwdjwijije
 
-bot.run("ODYyNjEzOTg1MjY1NTgyMDgx.GGn6Mr.j8rt73u05efUz3g483JrVU-xIVKu07NyyxjZLg")
+bot.run()
