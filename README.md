@@ -1,5 +1,7 @@
 # Showcase of Coding Projects created by Maulik
 
+Breif disciptions of all the complted projects i have created and worked on, source code and more details can be found in folders of the repective project.
+
 # Applications in Python
 
 ## EcoCheck.AI
@@ -22,4 +24,4 @@ A Wikipedia page but for your favorite coding & tech streamers made using Flask 
 
 ## DiscBOX- Gaming bot in Discord
 
-A text-based story type game bot for Discord made using discord.py and pycord API wrappers for dicord in python
+A text-based story type game bot for Discord made using discord.py and pycord API wrappers for Discord in python
