@@ -1,6 +1,6 @@
 # Showcase of Coding Projects created by Maulik
 
-Breif disciptions of all the complted projects i have created and worked on, source code and more details can be found in folders of the repective project.
+Brief disciptions of all the complted projects i have created and worked on, source code and more details can be found in folders of the repective project.
 
 # Applications in Python
 
@@ -20,8 +20,9 @@ A Tkinter application to make new entires edit existing entries and delete unwan
 
 ## WhenTheIDE
 
-A Wikipedia page but for your favorite coding & tech streamers made using Flask (In Colaboration with Aadi Lal)
+A Wikipedia-like page but for your favorite coding & tech streamers made using Flask (In Colaboration with Aadi Lal)
 
 ## DiscBOX- Gaming bot in Discord
 
-A text-based story type game bot for Discord made using discord.py and pycord API wrappers for Discord in python
+A text-based story type game bot for Discord made using discord.py and pycord API wrappers for Discord in python.
+*Currently Out-of-Dateq due to updateds in API, code needs to be revised for this project to work and connect with Discord*
