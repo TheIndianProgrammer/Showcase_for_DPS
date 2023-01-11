@@ -40,8 +40,7 @@ A text-based story-type game bot for Discord made using discord.py and pycord AP
 
 ## Selnium Web Driver
 
-A text-based story-type game bot for Discord made using discord.py and pycord API wrappers for Discord in python.
-*Currently Out-of-Date due to updates in API, the code needs to be revised for this project to work and connect with Discord*
+A simple browser automation which searches the inputed search term and gets the first image result.
 
 #### Learnt on Tech with Tim
 
