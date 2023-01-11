@@ -1,6 +1,7 @@
 # Showcase of Coding Projects created by Maulik
 
-Brief descriptions of all the completed projects I have created and worked on, source code, and more details can be found in folders of the respective project.
+Brief descriptions of all the projects I have created and worked on. 
+Source codes of the projects, and more details can be found in the respective project folders.
 
 # Applications in Python
 
@@ -12,7 +13,7 @@ An AI-enabled model to assess the Environmental Impact of a product, with the pr
 
 ## MChat Chatbot 
 
-An AI-enabled & GUI equipped chatbot and assistant which can also be activated by voice.
+An AI-enabled chatbot and assistant with GUI. It also has text-to-speech features.
 
 #### Learnt in AI Bootcamp & Tech with Tim
 
@@ -33,6 +34,6 @@ A Wikipedia-like page but for your favorite coding & tech streamers made using F
 ## DiscBOX- Gaming bot in Discord
 
 A text-based story-type game bot for Discord made using discord.py and pycord API wrappers for Discord in python.
-*Currently Out-of-Date due to updates in API,the code needs to be revised for this project to work and connect with Discord*
+*Currently Out-of-Date due to updates in API, the code needs to be revised for this project to work and connect with Discord*
 
 #### Learnt on Tech with Tim
