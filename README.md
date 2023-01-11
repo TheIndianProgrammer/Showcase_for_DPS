@@ -8,19 +8,19 @@ Brief disciptions of all the complted projects i have created and worked on, sou
 
 An AI-enabled model to assess the Environmental Impact of a product, with the product’s chemical composition. (Contributions by Krishna Ajay Jeshwani)
 
-### Learnt in AI Bootcamp
+#### Learnt in AI Bootcamp
 
 ## MChat Chatbot 
 
 An AI-enabled & GUI equiped chatbot and assitant, can also be activated by voice
 
-### Learnt in AI Bootcamp & Tech with Tim
+#### Learnt in AI Bootcamp & Tech with Tim
 
 ## Database Manager in Tkinter
 
 A Tkinter application to make new entires edit existing entries and delete unwanted entires using a User-Friendly UI.
 
-### Learnt on GeeksforGeeks
+#### Learnt on GeeksforGeeks
 
 # Web & API based applications
 
@@ -28,11 +28,11 @@ A Tkinter application to make new entires edit existing entries and delete unwan
 
 A Wikipedia-like page but for your favorite coding & tech streamers made using Flask (In Colaboration with Aadi Lal)
 
-### Learnt on Tech with Tim & Freecodercamp
+#### Learnt on Tech with Tim & Freecodercamp
 
 ## DiscBOX- Gaming bot in Discord
 
 A text-based story type game bot for Discord made using discord.py and pycord API wrappers for Discord in python.
 *Currently Out-of-Dateq due to updateds in API, code needs to be revised for this project to work and connect with Discord*
 
-### Learnt on Tech with Tim
+#### Learnt on Tech with Tim
