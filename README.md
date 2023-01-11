@@ -39,6 +39,6 @@ A text-based story-type game bot for Discord made using discord.py and pycord AP
 #### Learnt on Tech with Tim
 
 ## Info
-*Since EXE files are not allowed in Github, i wasnt able to add them, few programs may need to be running after opening them*
+*Since EXE files are not allowed in Github, i wasnt able to add them, few programs may need to be runned after opening them*
 
 # Thank you
