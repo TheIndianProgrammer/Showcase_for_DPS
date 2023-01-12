@@ -25,7 +25,7 @@ A Tkinter application to make new entries, edit existing entries, and delete unw
 
 # Web & API-based applications
 
-## WhenTheIDE
+## WhenTheIDE (Website)
 
 A Wikipedia-like page but for your favorite coding & tech streamers made using Flask (In collaboration with Aadi Lal)
 
